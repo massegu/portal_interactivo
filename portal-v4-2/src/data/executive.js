@@ -1,0 +1,6 @@
+export const executiveTasks=[
+{title:"Elegir entre dos tareas",level:"basico",context:"Tienes que sacar la basura y llamar para confirmar una cita. La oficina cierra en 15 minutos.",questions:["¿Qué harías primero y por qué?","¿Qué puede esperar?","¿Qué pasaría si eliges mal el orden?"],keywords:["llamar","cita","oficina","cierra","primero"]},
+{title:"Resolver un olvido",level:"medio",context:"Llegas al supermercado y te das cuenta de que has olvidado la lista de la compra.",questions:["¿Qué estrategia usarías?","¿Cómo evitarías que vuelva a pasar?","¿Qué productos priorizarías?"],keywords:["recordar","priorizar","basico","nota","movil"]},
+{title:"Gestionar una espera",level:"medio",context:"Tienes que esperar 40 minutos para una cita y no puedes irte lejos.",questions:["¿Cómo aprovecharías el tiempo?","¿Qué no conviene hacer?","¿Cómo controlarías la hora?"],keywords:["esperar","tiempo","alarma","cerca","revisar"]},
+{title:"Imprevisto con dinero",level:"alto",context:"Vas a pagar y la tarjeta no funciona. Tienes poco efectivo y hay gente esperando.",questions:["¿Qué harías primero?","¿Cómo reducirías el estrés?","¿Qué alternativa buscarías?"],keywords:["calma","efectivo","otra tarjeta","avisar","alternativa"]}
+];
